@@ -69,7 +69,6 @@ Fullstack‑разработчик с фокусом на frontend и про
 - Эксперименты с RSC и Suspense
 - Создание собственных UI‑kit на Tailwind и shadcn
 - Разработка Telegram‑ботов на Node.js и Golang
-- Осваиваю Rust
 
 ---
 
